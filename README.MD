@@ -6,20 +6,20 @@
 
 ## Proyecto 2
 
-### Indicadores Mundiales
+### Proyecto 2 - Indicadores Mundiales
 <img src="./imagenes/Proyecto 2 - Indicadores Mundiales.png" />
 
 
-### Poblacion por area
+### Proyecto 2 - Poblacion por area
 <!-- ![](./imagenes/Proyecto%202%20-%20Poblacion%20por%20area.png) -->
 <img src="./imagenes/Proyecto 2 - Poblacion por area.png"/>
 
 ## Proyecto 3 
 
-### Reporte de Recursos Humanos, Analisis de sueldo
+### Proyecto 3 - Reporte de Recursos Humanos, Analisis de sueldo
 <img src="./imagenes/Proyecto 3 - Reporte de Recursos Humanos, Analisis Sueldo.png"/>
 
-### Reporte de Recursos Humanos, Total Colaboradores
+### Proyecto 3 - Reporte de Recursos Humanos, Total Colaboradores
 <img src="./imagenes/Proyecto 3 - Reporte de Recursos Humanos, Total Colaboradores.png"/>
 
 

@@ -23,7 +23,7 @@
 <img src="./imagenes/Proyecto 3 - Reporte de Recursos Humanos, Total Colaboradores.png"/>
 
 
-## Histórico Tasa del Dólar, desde 1985 hasta 2021 en Republica Dominicana
+## Histórico Tasa del Dólar, desde 1985 hasta 2022 en Republica Dominicana
 <img src="./imagenes/Histórico Tasa del Dólar, 1985-2021.png"/>
 
 ## Analisis de la nomina de Agosto 2022 de la JCE
